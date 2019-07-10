@@ -109,6 +109,8 @@
         <DCCReference Include="..\Direct2D_Engine\D2Engine.Moving.pas"/>
         <DCCReference Include="..\Direct2D_Engine\D2Engine.Simples.pas"/>
         <DCCReference Include="..\Direct2D_Engine\D2Engine.Classes.pas"/>
+        <DCCReference Include="..\Direct2D_Engine\D2Engine.Sprites.pas"/>
+        <DCCReference Include="..\Direct2D_Engine\D2Engine.Sprites.Physical.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>

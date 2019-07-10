@@ -33,6 +33,7 @@ implementation
 procedure TFormMain.FormCreate(Sender: TObject);
 begin
   Engine := TD2EngineCore.Create(800, 600);
+  Engine.LoopedWorld := True;
   Engine.CreateTest;
   Engine.Run;
 end;

@@ -9,7 +9,9 @@ uses
   D2Engine.Layers in '..\Direct2D_Engine\D2Engine.Layers.pas',
   D2Engine.Moving in '..\Direct2D_Engine\D2Engine.Moving.pas',
   D2Engine.Simples in '..\Direct2D_Engine\D2Engine.Simples.pas',
-  D2Engine.Classes in '..\Direct2D_Engine\D2Engine.Classes.pas';
+  D2Engine.Classes in '..\Direct2D_Engine\D2Engine.Classes.pas',
+  D2Engine.Sprites in '..\Direct2D_Engine\D2Engine.Sprites.pas',
+  D2Engine.Sprites.Physical in '..\Direct2D_Engine\D2Engine.Sprites.Physical.pas';
 
 {$R *.res}
 
